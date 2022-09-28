@@ -1,0 +1,2 @@
+# Symbol.
+Favorite: Nebula = [Helix Nebula, https://en.wikipedia.org/wiki/Helix_Nebula, https://science.nasa.gov/helix-nebula-hydrogen-and-oxygen, https://www.nasa.gov/mission_pages/chandra/images/helix-nebula.html, https://www.nasa.gov/multimedia/imagegallery/image_feature_2368.html, https://www.space.com/18484-vistas-look-at-the-helix-nebula.html, https://noirlab.edu/public/images/noao0307a/, https://www.eso.org/public/shop/product/print_poster_0050/, https://www.wallpaperflare.com/search?wallpaper=helix+nebula])
